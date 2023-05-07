@@ -1,2 +1,6 @@
 Given PAE plots from prediction, homo-trimer seems to be most promising.
-Comparing PAE distribution, dimer and trimer had low overall PAE. Meanwhile, in homo 4-mer, the multimer seems to have two discrete domains. Which can somehow thought to be the result of two dimers interacting. Additionally, predicted interface score (a.k.a iptm) also decreased in homo tetramer. In conclusion, based on the prediction, homo trimer should be properly multimerized, while homo dimer describes the partial structure of homo trimer, and homo tetramer is not confident.
+Comparing PAE distribution, dimer and trimer had low overall PAE. 
+Meanwhile, in homo 4-mer, the plot seems ambigous between a,b and c,d.
+Which can somehow thought to be two dimers interacting. 
+Additionally, predicted interface score (a.k.a iptm) also decreased in homo tetramer. 
+In conclusion, based on the prediction, homo trimer should be properly multimerized, while homo dimer describes the partial structure of homo trimer, and homo tetramer is not confident.
